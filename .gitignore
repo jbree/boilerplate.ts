@@ -1,0 +1,7 @@
+*.log
+.DS_Store
+.nyc_output
+.vscode
+dist
+docs
+node_modules
